@@ -1,0 +1,9 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="28" fill="#0E0E0E"/>
+  <rect x="3" y="3" width="414" height="114" rx="25" stroke="#D7B77A" stroke-opacity="0.6" stroke-width="2"/>
+  <circle cx="60" cy="60" r="34" fill="#171717" stroke="#D7B77A" stroke-width="2"/>
+  <path d="M48 73C53 64 67 64 72 73" stroke="#F5E6C8" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M60 38L69 54H51L60 38Z" fill="#D7B77A"/>
+  <text x="108" y="52" fill="#F7F0E4" font-family="Playfair Display, serif" font-size="30" font-weight="700" letter-spacing="1.5">CASA AURELIA</text>
+  <text x="108" y="82" fill="#D7B77A" font-family="Manrope, sans-serif" font-size="15" font-weight="700" letter-spacing="5">FINE DINING</text>
+</svg>
