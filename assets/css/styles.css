@@ -13307,3 +13307,24 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, .contact-title, .hero-title {
   #mainNav .nav-logo { height: 42px; }
   .hero-title, .masthead h1 { font-size: clamp(2.2rem, 8vw, 3.3rem) !important; }
 }
+
+/* RESTAURANT MODAL / CATALOG DISTINCT */
+.catalogo .item {
+  overflow: hidden;
+}
+
+.catalogo .item img {
+  aspect-ratio: 1 / 1 !important;
+}
+
+.modal-content {
+  width: min(92%, 700px) !important;
+  border-radius: 28px !important;
+}
+
+.modal-content img {
+  width: min(100%, 520px) !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 20px !important;
+  margin-top: 1rem !important;
+}
